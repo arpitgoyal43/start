@@ -4,15 +4,15 @@
  * and open the template in the editor.
  */
 package git.start;
-    
-public class GitStart {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("Hello");
+/**
+ *
+ * @author ARPIT BOSS
+ */
+public class NewClass {
+    public static void main(String args[])
+    {
+        System.out.println("Second file");
     }
     
 }
